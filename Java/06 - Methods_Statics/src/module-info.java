@@ -1,0 +1,2 @@
+module Methods_Statics {
+}
