@@ -24,15 +24,3 @@ Acesse aqui para mais informações
 <a href="https://www.gama.academy/?utm_source=google&utm_medium=compramidia&utm_campaign=institucional-brand&gclid=CjwKCAjw2bmLBhBREiwAZ6ugo4lbnOb487zOeGZ-eAvJGePiDhXQmWynX_E5nOblFcoVwiFlum4JqBoCUowQAvD_BwE" target="blank"><img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/gama-academy-logo-horizontal-verde-preto.png" width="55%"></a>
 </div>
 
-## Projetos - Java
-   - <a href="./02- AppClasses">08/10/2021 - Teste de Clases</a>
-   - <a href="./02 - AppCrud">09/10/2021 - CRUD inicial</a>
-   - <a href="./03 - Methods">09/10/2021 - Métodos com e sem retorno</a>
-   - <a href="./04 - Encapsulamento -AcessosPrivadosEPublicos">11/10/2021 - Modos de Encapsulamento</a>
-   - <a href="./05 - App.Spring.Datas">13/10/2021 - Projeto com Datas e Class Calendar</a>
-   - <a href="./06 - Methods_Statics">14/10/2021 - Métodos Estáticos</a>
-   - <a href="./07 - Aplicacao - Regex">15/10/2021 - Aplicação Regex</a>
-   - <a href="./08 - Crud">18/10/2021 - Aplicação CRUD</a>
-   
-  <p></p> 
-
