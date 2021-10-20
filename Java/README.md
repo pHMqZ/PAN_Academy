@@ -7,6 +7,6 @@
    - <a href="./06 - Methods_Statics">14/10/2021 - Métodos Estáticos</a>
    - <a href="./07 - Aplicacao - Regex">15/10/2021 - Aplicação Regex</a>
    - <a href="./08 - Crud">18/10/2021 - Aplicação CRUD</a>
-   
+   - <a href="./09 - Java_operadores">18/10/2021 - Projeto com operadores</a>
   <p></p> 
 
