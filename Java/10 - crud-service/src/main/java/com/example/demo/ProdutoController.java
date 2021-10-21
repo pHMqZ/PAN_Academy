@@ -17,6 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api")
 public class ProdutoController {
 
+	         //server-port
+	//http://localhost:8089/swagger-ui.html
 	@Autowired
 	ProdutoService produtoService;
 	

@@ -24,3 +24,7 @@ Acesse aqui para mais informações
 <a href="https://www.gama.academy/?utm_source=google&utm_medium=compramidia&utm_campaign=institucional-brand&gclid=CjwKCAjw2bmLBhBREiwAZ6ugo4lbnOb487zOeGZ-eAvJGePiDhXQmWynX_E5nOblFcoVwiFlum4JqBoCUowQAvD_BwE" target="blank"><img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/gama-academy-logo-horizontal-verde-preto.png" width="55%"></a>
 </div>
 
+<div>
+
+
+</div>
