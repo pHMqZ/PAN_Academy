@@ -11,7 +11,12 @@
    - <a href="./07 - Aplicacao - Regex">15/10/2021 - Aplicação Regex</a>
    - <a href="./08 - Crud">18/10/2021 - Aplicação CRUD</a>
    - <a href="./09 - Java_operadores">18/10/2021 - Projeto com operadores</a>
-   - <a href="./10 - Op_Arrays">20/10/2021 - Uso de arrays</a>
+   - <a href="./10 - Op_Arrays">20/10/2021 - Uso de arrays; pilhas e listas</a>
    - <a href="./10 - crud-service">20/10/2021 - CRUD com uso de Swagger</a>
+
+
+<p> Ambiente de testes - J Unit</p>
+   - <a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit</a>
+
   
 
