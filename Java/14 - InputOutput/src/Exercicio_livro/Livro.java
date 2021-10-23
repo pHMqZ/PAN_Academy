@@ -11,11 +11,10 @@ public class Livro extends Produto {
 		setPreco(Double.parseDouble(JOptionPane.showInputDialog("Qual o preço do produto?")));
 		setDescricao(JOptionPane.showInputDialog("Qual o nome do produto? "));
 		
-		
-		
 		System.out.println("Codigo: " + getCodigo());
 		System.out.println("Descriçao: " + getDescricao());
 		System.out.println("Preço: R$ " + getPreco());
+		
 	}
 
 }
