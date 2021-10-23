@@ -32,8 +32,18 @@ public class ClienteController {
 		return ResponseEntity.status(HttpStatus.CREATED).body(clienteReposity.save(clientinho));
 	}
 
-	@GetMapping("/listar/CpfOuCnpj/{tipo}")
+	@GetMapping("/listar/pessoas_fisicas/{tipo}")
 	public ResponseEntity<List<ClienteModel>> filtroPorId(@PathVariable Integer tipo) {
-		return ResponseEntity.ok(clienteReposity.procuraTipoPessoas(tipo));
+		return ResponseEntity.ok(clienteReposity.procuraPessoasFisicas(tipo));
+	}
+	
+	@GetMapping("/listar/clientes/sql/alfabetico")
+	public List<ClienteModel> procuraTodosAlfabetico(){
+		return clienteReposity.procuraTodosAlfabetico();
+	}
+	
+	@GetMapping("/listar/clientes/sql")
+	public List<ClienteModel> procuraTodos(){
+		return clienteReposity.procuraTodos();
 	}
 }
