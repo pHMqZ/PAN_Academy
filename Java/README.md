@@ -14,6 +14,8 @@
    - <a href="./10 - Op_Arrays">20/10/2021 - Uso de arrays; pilhas e listas</a>
    - <a href="./10 - crud-service">20/10/2021 - CRUD com uso de Swagger</a>
    - <a href="./12 - Operation_For">22/10/2021 - Operações com for/while e regex + while</a>
+   - <a href="./13 - Sobrescrita">23/10/2021 - Uso de heranças</a>
+   - <a hgref="./14 - InputOutput">23/10/2021 - Uso de Inputs e Outputs com JOptionPane</a>
 
 
 
