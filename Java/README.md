@@ -6,14 +6,14 @@
 
 <body>
    <ol> <h2>Exercicios Java</h2>
-      <li> <a href="./03 - Methods">09/10/2021 - Métodos com e sem retorno</a></li>
-      <li> <a href="./04 - Encapsulamento -AcessosPrivadosEPublicos">11/10/2021 - Modos de Encapsulamento</a></li>
-      <li> <a href="./06 - Methods_Statics">14/10/2021 - Métodos Estáticos</a></li>
-      <li> <a href="./09 - Java_operadores">18/10/2021 - Projeto com operadores</a></li>
-      <li> <a href="./10 - Op_Arrays">20/10/2021 - Uso de arrays; pilhas e listas</a></li>
-      <li> <a href="./12 - Operation_For">22/10/2021 - Operações com for/while e regex + while</a></li>
-      <li> <a href="./13 - Sobrescrita">23/10/2021 - Uso de heranças</a></li>
-      <li> <a href="./14 - InputOutput">23/10/2021 - Uso de Inputs e Outputs com JOptionPane e Scanner</a></li>
+      <li><a href="./03 - Methods">09/10/2021 - Métodos com e sem retorno</a></li>
+      <li><a href="./04 - Encapsulamento -AcessosPrivadosEPublicos">11/10/2021 - Modos de Encapsulamento</a></li>
+      <li><a href="./06 - Methods_Statics">14/10/2021 - Métodos Estáticos</a></li>
+      <li><a href="./09 - Java_operadores">18/10/2021 - Projeto com operadores</a></li>
+      <li><a href="./10 - Op_Arrays">20/10/2021 - Uso de arrays; pilhas e listas</a></li>
+      <li><a href="./12 - Operation_For">22/10/2021 - Operações com for/while e regex + while</a></li>
+      <li><a href="./13 - Sobrescrita">23/10/2021 - Uso de heranças</a></li>
+      <li><a href="./14 - InputOutput">23/10/2021 - Uso de Inputs e Outputs com JOptionPane e Scanner</a></li>
    </ol> 
    
    <ol> <h2>Aplicações em SpringBoot</h2>
