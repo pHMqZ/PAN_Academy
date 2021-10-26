@@ -1,9 +1,10 @@
 <h1> Projetos - Java </h1>
 
-<head> <h2>Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</h2></head>
+<head> <h2>Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</h2>
+</head>
 
 <body>
-   <ol> Exercicios Java
+   <ol> <h2>Exercicios Java</h2>
       <li><a href="./03 - Methods">09/10/2021 - Métodos com e sem retorno</a></li>
       <li><a href="./04 - Encapsulamento -AcessosPrivadosEPublicos">11/10/2021 - Modos de Encapsulamento</a></li>
       <li><a href="./06 - Methods_Statics">14/10/2021 - Métodos Estáticos</a></li>
@@ -14,7 +15,7 @@
       <li><a href="./14 - InputOutput">23/10/2021 - Uso de Inputs e Outputs com JOptionPane e Scanner</a></li>
    </ol> 
    
-   <ol> Aplicações em SpringBoot
+   <ol> <h2>Aplicações em SpringBoot</h2>
       <li><a href="./02- AppClasses">08/10/2021 - Teste de Clases</a></li>
       <li><a href="./02 - AppCrud">09/10/2021 - CRUD inicial</a></li>
       <li><a href="./05 - App.Spring.Datas">13/10/2021 - Projeto com Datas e Class Calendar</a></li>
@@ -29,7 +30,7 @@
    </ol>
    
 
-   <ol> Ambiente de testes - J Unit
+   <ol> <h2>Ambiente de testes - J Unit</h2>
       <li><a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit</a></li>
    </ol>
 </body>
