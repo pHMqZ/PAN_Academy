@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title> Projetos - Java </title>
+  <h1> Projetos - Java </h1>
     <h2>Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</h2>
  </head>
 
@@ -29,7 +29,6 @@
        <li><a href="./17-app1-microservices">25/10/2021 - Microserviço com Spring Cloud (App 1 + App 2)</a></li>
        <li><a href="./17-app2-microservices">25/10/2021 - Microserviço com Spring Cloud (App 1 + App 2)</a></li>
     </ol>
-
 
     <ol> <h2>Ambiente de testes - J Unit</h2>
        <li><a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit</a></li>
