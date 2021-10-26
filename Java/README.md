@@ -1,6 +1,7 @@
-<h1> Projetos - Java </h1>
 
-<head> <h2>Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</h2>
+<head>
+<title> Projetos - Java </title>
+ <h1>Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</h2>
 </head>
 
 <body>
