@@ -1,8 +1,8 @@
 ## Projetos - Java
 
-<p> Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</p>
+<head> Pasta com projetos realizados durante as aulas ministradas pela professora Luiza Cherchiari</head>
 
-
+<body>
 <p> Exercicios Java
  - <a href="./03 - Methods">09/10/2021 - Métodos com e sem retorno</a>
  - <a href="./04 - Encapsulamento -AcessosPrivadosEPublicos">11/10/2021 - Modos de Encapsulamento</a>
@@ -32,4 +32,4 @@
 <p> Ambiente de testes - J Unit
  - <a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit</a>
 </p>
-
+</body>
