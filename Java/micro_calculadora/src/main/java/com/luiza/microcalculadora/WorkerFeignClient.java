@@ -11,8 +11,8 @@ import com.luiza.microcalculadora.model.Tabela;
 @Component
 @FeignClient(name = "micro-tabela", path = "/tabela")
 public interface WorkerFeignClient {
-	
-	//primeira parte do controller - endpoint
+
+	//primeira parte 
 	@GetMapping(value = "/{id}")
 	ResponseEntity<Tabela> findById(@PathVariable Long id);
 }

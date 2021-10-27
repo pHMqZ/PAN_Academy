@@ -11,40 +11,35 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.luiza.microtabela.model.Tabela;
 import com.luiza.microtabela.repositories.TabelaRepository;
-//loggers
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 
 
 @RestController
 @RequestMapping(value = "/tabela")
 public class TabelaResource {
-	// pega o que acontece aqui
+/////////////////////ATENCAO AQUI É O PROJETO MICRO TABELA AGORA
 	private static Logger logger = LoggerFactory.getLogger(TabelaResource.class);
 
-	// pega o que acontece em cima
 	@Autowired
 	private Environment env;
 
 	@Autowired
 	private TabelaRepository repository;
-
+	
 	@GetMapping
 	public ResponseEntity<List<Tabela>> findAll() {
 		List<Tabela> list = repository.findAll();
 		return ResponseEntity.ok(list);
-	}
-
+	}	
+	
 	@GetMapping(value = "/{id}")
 	public ResponseEntity<Tabela> findById(@PathVariable Long id) {
 		logger.info("PORT = " + env.getProperty("local.server.port"));
 
-		String serverPort = env.getProperty("local.server.port");
-		 System.out.println("Port : " + serverPort);
-
 		Tabela obj = repository.findById(id).get();
 		return ResponseEntity.ok(obj);
-	}
+	}	
 }

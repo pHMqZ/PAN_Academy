@@ -31,7 +31,7 @@ public class CalculadoraService {
 		
 	
 	Tabela tabelinha = workerFeignClient.findById(tabelaId).getBody();
-	//segunda parte do controller	
+	//2 parte do controller	
 	return new Calculadora(tabelinha.getPessoa(), tabelinha.getPrecoPorDia(), dias);
 }
 
