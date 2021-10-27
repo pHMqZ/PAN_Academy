@@ -28,6 +28,8 @@
       <li><a href="./16-join">23/10/2021 - Aplicação com Join</a></li>
       <li><a href="./17-app1-microservices">25/10/2021 - Microserviço com Spring Cloud (App 1 + App 2)</a></li>
       <li><a href="./17-app2-microservices">25/10/2021 - Microserviço com Spring Cloud (App 1 + App 2)</a></li>
+      <li><a href="./micro_calculadora">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela)</a></li>
+      <li><a href="./micro-tabela">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela)</a></li>
    </ol>
    
 
