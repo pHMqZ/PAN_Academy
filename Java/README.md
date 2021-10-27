@@ -17,7 +17,7 @@
    </ol> 
    
    <ol> <h2>Aplicações em SpringBoot</h2>
-      <li><a href="./02- AppClasses">08/10/2021 - Teste de Clases</a></li>
+      <li><a href="./02- AppClasses">08/10/2021 - Teste de Classes</a></li>
       <li><a href="./02 - AppCrud">09/10/2021 - CRUD inicial</a></li>
       <li><a href="./05 - App.Spring.Datas">13/10/2021 - Projeto com Datas e Class Calendar</a></li>
       <li><a href="./07 - Aplicacao - Regex">15/10/2021 - Aplicação Regex</a></li>
