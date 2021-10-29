@@ -32,7 +32,7 @@
       <li><a href="./17-app2-microservices">25/10/2021 - Microserviço com Spring Cloud (App 1 + App 2);</a></li>
       <li><a href="./micro_calculadora">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela);</a></li>
       <li><a href="./micro-tabela">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela);</a></li>
-      <li><a href="./Banco-Pan-MicroServices">27/10/2021 - Microservices com Eureka.</a></li>
+      <li><a href="./Banco-Pan-MicroServices">28/10/2021 - Microservices com Zuul Gateway.</a></li>
    </ol>
    
 

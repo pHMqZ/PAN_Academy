@@ -1,19 +1,18 @@
-package com.luiza.microcalculadora;
+package com.phillip;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-
-import org.springframework.cloud.openfeign.EnableFeignClients;
+import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 
 @EnableEurekaClient
-@EnableFeignClients
+@EnableZuulProxy
 @SpringBootApplication
-public class MicroCalculadoraApplication {
+public class ApiZuulGatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroCalculadoraApplication.class, args);
+		SpringApplication.run(ApiZuulGatewayApplication.class, args);
 	}
 
 }
