@@ -15,17 +15,15 @@ public class JsonApplication {
 		
 		JSONObject jsonzinho = new JSONObject();
 		
-		jsonzinho.put("Nome","Julio");
-		jsonzinho.put("Sobrenome", "Smith");
-		jsonzinho.put("idade", "25");
-		jsonzinho.put("Nome","Julio");
-		jsonzinho.put("Sobrenome", "Smith");
-		jsonzinho.put("idade", "25");
+		jsonzinho.put("Nome","Phillip");
+		jsonzinho.put("Sobrenome", "Marques");
+		jsonzinho.put("Idade", "26");
+
 		
 		System.out.println(jsonzinho);
 		
 		//writing JSON to file:"JSONExample.json" in cwd
-		PrintWriter salvar = new PrintWriter("./src/main/java/teste2.json");
+		PrintWriter salvar = new PrintWriter("./src/main/java/testeLeitura.json");
 		
 		salvar.write(jsonzinho.toJSONString());
 		

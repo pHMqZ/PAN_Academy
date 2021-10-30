@@ -10,7 +10,8 @@ public class Usuario {
 	private Long id;
 	private String nome;
 	private int idade;
-
+	
+	
 	public Long getId() {
 		return id;
 	}
