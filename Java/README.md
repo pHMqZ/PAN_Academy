@@ -19,8 +19,6 @@
    </ol> 
    
    <ol> <h2>Aplicações em SpringBoot</h2>
-      <li><a href="./02- AppClasses">08/10/2021 - Teste de Classes;</a></li>
-      <li><a href="./02 - AppCrud">09/10/2021 - CRUD inicial;</a></li>
       <li><a href="./05 - App.Spring.Datas">13/10/2021 - Projeto com Datas e Class Calendar;</a></li>
       <li><a href="./07 - Aplicacao - Regex">15/10/2021 - Aplicação Regex;</a></li>
       <li><a href="./08 - Crud">18/10/2021 - Aplicação CRUD;</a></li>
@@ -39,7 +37,7 @@
 
    <ol> <h2>Ambiente de testes - J Unit</h2>
       <li><a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit</a></li>
-      <li><a href ="./24-base-testes">30/10/2021 - Sequencia de testes com J Unit</a></li>
+      <!-- <li><a href ="./24-base-testes">30/10/2021 - Sequencia de testes com J Unit</a></li> -->
       <li><a href ="./25-testesAtividade">30/10/2021 - Exercicio de app com testes J Unit</a></li>
    </ol>
 </body>
