@@ -15,7 +15,7 @@
       <li><a href="./13 - Sobrescrita">23/10/2021 - Uso de heranças;</a></li>
       <li><a href="./14 - InputOutput">23/10/2021 - Uso de Inputs e Outputs com JOptionPane e Scanner;</a></li>
       <li><a href="./18-z_debug">27/10/2021 - Uso de Debug na aplicação;</a></li>
-      <li><a href="./18-z_construtores">27/10/2021 - Uso de contrutores na aplicação;</a></li>
+      <li><a href="./18-z_construtores">27/10/2021 - Uso de contrutores na aplicação.</a></li>
    </ol> 
    
    <ol> <h2>Aplicações em SpringBoot</h2>
@@ -30,14 +30,15 @@
       <li><a href="./17-app2-microservices">25/10/2021 - Microserviço com Spring Cloud (App 1 + App 2);</a></li>
       <li><a href="./micro_calculadora">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela);</a></li>
       <li><a href="./micro-tabela">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela);</a></li>
-      <li><a href="./Banco-Pan-MicroServices">28/10/2021 - Microservices com Zuul Gateway.</a></li>
-      <li><a href ="./26-crud_AWS">30/10/2021 - Application Crud pra subir na AWS</a></li>
+      <li><a href="./Banco-Pan-MicroServices">28/10/2021 - Microservices com Zuul Gateway;</a></li>
+      <li><a href ="./26-crud_AWS">30/10/2021 - Application Crud pra subir na AWS.</a></li>
    </ol>
    
 
    <ol> <h2>Ambiente de testes - J Unit</h2>
-      <li><a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit</a></li>
-      <!-- <li><a href ="./24-base-testes">30/10/2021 - Sequencia de testes com J Unit</a></li> -->
-      <li><a href ="./25-testesAtividade">30/10/2021 - Exercicio de app com testes J Unit</a></li>
+      <li><a href ="./Project_JUnit">21/10/2021 - Primeiros testes com J Unit;</a></li>
+      <li><a href ="./19-junit">30/10/2021 - App de calculadora com testes J Unit;</a></li>
+      <li><a href ="./24-bancodedados">30/10/2021 - Banco de dados com testes J Unit;</a></li>
+      <li><a href ="./25-testesAtividade">30/10/2021 - Exercicio de app com testes J Unit.</a></li>
    </ol>
 </body>
