@@ -31,7 +31,9 @@
       <li><a href="./micro_calculadora">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela);</a></li>
       <li><a href="./micro-tabela">26/10/2021 - Microserviço com Spring Cloud e Ribbon (Micro Calculadora e Micro Tabela);</a></li>
       <li><a href="./Banco-Pan-MicroServices">28/10/2021 - Microservices com Zuul Gateway;</a></li>
-      <li><a href ="./26-crud_AWS">30/10/2021 - Application Crud pra subir na AWS.</a></li>
+      <li><a href ="./26-crud_AWS">30/10/2021 - Application Crud pra subir na AWS;</a></li>
+      <li><a href="./28-conexoes">01/11/2021 - Teste de conexões com Banco de Dados;</a></li>
+      <li><a href="./29-2AppLambda2">01/11/2021 - Aplicação Lambda com acesso ao Banco de Dados.</a></li>
    </ol>
    
 
