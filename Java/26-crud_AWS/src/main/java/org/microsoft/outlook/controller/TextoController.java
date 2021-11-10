@@ -3,7 +3,6 @@ package org.microsoft.outlook.controller;
 import java.util.List;
 
 import org.microsoft.outlook.model.Texto;
-import org.microsoft.outlook.model.Texto;
 import org.microsoft.outlook.repository.TextoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

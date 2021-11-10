@@ -16,7 +16,7 @@ public class ProdutoServiceImpl implements ProdutoService {
 		chocolate.setNome("Chocolate");
 		produtoRepository.put(chocolate.getId(), chocolate);
 		
-		//mocka m produto - trufa
+		//mocka um produto - trufa
 		Produto trufa = new Produto();
 		trufa.setId("2");
 		trufa.setNome("Trufa");
