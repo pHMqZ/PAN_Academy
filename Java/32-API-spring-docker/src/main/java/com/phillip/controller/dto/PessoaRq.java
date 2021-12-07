@@ -4,6 +4,8 @@ public class PessoaRq {
 	
 	private String nome;
 	private String sobrenome;
+	
+	
 	public String getNome() {
 		return nome;
 	}

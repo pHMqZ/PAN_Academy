@@ -1,0 +1,28 @@
+a) Baixar o instalador que está disponível na área de downloads desta aula.
+
+b) Baixar o kubectl e adicionar ao path do sistema
+
+	curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"
+
+	chmod +x ./kubectl
+
+	sudo mv ./kubectl /usr/local/bin/kubectl
+
+c) Verificar se foi instalado com sucesso
+
+	kubectl version --client
+
+d) Executar o instalador do Minikube
+
+	OBS: Se necessário, reiniciar o computador
+
+	sudo install minikube-darwin-amd64 /usr/local/bin/minikube
+
+e) Configurar o docker como driver padrão (container runtime) para o Kubernetes 
+
+	minikube config set driver docker
+
+f) Inicializar um cluster
+
+	minikube start 
+

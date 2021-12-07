@@ -34,7 +34,10 @@
       <li><a href ="./26-crud_AWS">30/10/2021 - Application Crud pra subir na AWS;</a></li>
       <li><a href="./28-conexoes">01/11/2021 - Teste de conexões com Banco de Dados;</a></li>
       <li><a href="./29-2AppLambda2">01/11/2021 - Aplicação Lambda com acesso ao Banco de Dados;</a></li>
+      <li><a href="./30-AtividadeExtraJSON">01/11/2021 - Aplicação extra para criação de JSON;</a></li>
+      <li><a href="./31-2AppLambda2">01/11/2021 - Aplicação Lambda com acesso ao Banco de Dados;</a></li>
       <li><a href="./32-API-spring-docker">09/11/2021 - Aplicação com docker e Spring Security.</a></li>
+      <li><a href="./33-security-jpa">10/11/2021 - Aplicação com metódos de segurança;</a></li>
    </ol>
    
 
