@@ -23,7 +23,7 @@ Acesse aqui para mais informações
  <a href="https://github.com/pHMqZ/BlueBank_PAN"> Aplicação realizada no desafio final </a>
 </p>
 <p>
- <a href=".Certificado - Phillip Marques"> Certificado de conclusão </a>
+ <a href="/Certificado - Phillip Marques.pdf"> Certificado de conclusão </a>
 </p>
 <p></p>
 <div style="display: flex; flex-direction: row;">
