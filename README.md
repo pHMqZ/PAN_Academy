@@ -22,6 +22,9 @@ Acesse aqui para mais informações
 <p>
  <a href="https://github.com/pHMqZ/BlueBank_PAN"> Aplicação realizada no desafio final </a>
 </p>
+<p>
+ <a href=".Certificado - Phillip Marques"> Certificado de conclusão </a>
+</p>
 <p></p>
 <div style="display: flex; flex-direction: row;">
 <a href="https://www.bancopan.com.br/?idcmp=t1:c05:m01:google:perf_inst_institucional-mar-aberto_cpc_srch_dkm:marca-pura_institucional-mar-aberto_srch_dkm_mai21&utm_source=google&utm_medium=cpc&utm_content=marca-pura_institucional-mar-aberto_srch_dkm_mai21&utm_keyword=marca-pura_mai21&utm_campaign=perf_inst_institucional-mar-aberto_cpc_srch_dkm&utm_term=site_texto_marca-pura&gclid=CjwKCAjw2bmLBhBREiwAZ6ugo4_5X7ZdBz8tJNSCcXHlGll4_ivS1KKuATfIxZenV_MppjjsR7KOuhoCxsQQAvD_BwE" target="blank"><img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/logo-Positivo.png" width="35%"></a>
